@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+tensorflow-probability
+opencv-python-headless 
+streamlit_option_menu 
+imutils
+pyttsx3
