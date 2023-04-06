@@ -91,7 +91,7 @@ def getSquares(input):
 #<--- slide starting --->
 
 
-st.sidebar.image("img/dollar.jpg")
+st.sidebar.image("dollar.jpg")
 
 # Options menu
 option = st.sidebar.selectbox("Chosse what you want to do",
