@@ -14,7 +14,7 @@ from tensorflow.keras.applications.mobilenet_v2 import preprocess_input as mobil
 # Set page config
 st.set_page_config(
     page_title = "Money Classification",
-    page_icon = "img/dollar.jpg",
+    page_icon = "dollar.jpg",
     layout="centered", 
     initial_sidebar_state="expanded"
 )
